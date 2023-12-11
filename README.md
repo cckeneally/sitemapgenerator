@@ -1,5 +1,6 @@
 # sitemapgenerator
-Basic shiny app to generate sitemaps from excel file
+Basic shiny app to generate sitemaps from excel file/csv input
 
-Available [here](https://cckeneally.shinyapps.io/sitemapgenerator/)
-Detailed guide available [here](https://cckeneally.github.io/docs/projects/sitemapshiny)
+App available [here](https://cckeneally.shinyapps.io/sitemapgenerator/).
+
+Detailed guide available [here](https://cckeneally.github.io/docs/projects/sitemapshiny).
